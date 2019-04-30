@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PriceBase</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="frame_pen">Ввод</string>
+    <string name="frame_chart">График</string>
+
+    <string name="label_item">Товар</string>
+    <string name="label_price">Цена</string>
+
+    <string name="toast_saved">Сохранено</string>
+    <string name="toast_error">Поля не заполнены</string>
+</resources>
